@@ -1,0 +1,25 @@
+.footer{
+background-color:greenyellow ;
+padding: 10px;
+bottom: 0;
+position: fixed;
+width: 100%;
+box-shadow: 5px -5px 20px blue;
+
+}
+
+.header_background
+{font-family: 'Roboto', sans-serif;
+background-color:orange;
+padding: 10px;
+position: fixed;
+width:100%;
+box-shadow:5px 5px 20px blue;
+font-weight: 900;
+
+}
+body{
+
+background-color: whitesmoke;
+
+}
